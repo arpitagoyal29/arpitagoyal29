@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋, I'm Arpita Goyal<br>B.Tech CSE @ NSUT | Backend Developer  |  Co-Founder @ Arvora</h2>
+<h2 data-importer="text" align="left">Hi 👋, I'm Arpita Goyal<br>B.Tech CSE @ NSUT | Full Stack Developer  |  Co-Founder @ Arvora</h2>
 
 ###
 
